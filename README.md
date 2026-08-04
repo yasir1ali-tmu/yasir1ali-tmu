@@ -3,8 +3,8 @@
 
 <p align="left">
   <a href="https://mr-software.online">🌐 Visit MR Software</a> •
-  <a href="https://linkedin.com">💼 Connect on LinkedIn</a> •
-  <a href="mailto:rafiqalbaloshi3@gmail.com">📩 Email Me</a>
+  <a href="https://www.linkedin.com/in/yasiraliit/">💼 Connect on LinkedIn</a> •
+  <a href="mailto:yasir1.ali@torontomu.ca">📩 Email Me</a>
 </p>
 
 ---
@@ -24,15 +24,15 @@ I am a passionate **Software Engineer** and **Network Automation Specialist** co
   <tr>
     <td valign="top" width="50%">
       <strong>🌐 Networking & Infrastructure</strong><br/><br/>
-      <img src="https://shields.io" alt="CCNA" />
-      <img src="https://shields.io" alt="Routing" />
+      <img src="https://shields.io" alt="CCNA" /><br/><br/>
+      <img src="https://shields.io" alt="Routing" /><br/><br/>
       <img src="https://shields.io" alt="Automation" />
     </td>
     <td valign="top" width="50%">
       <strong>💻 Software & Web Development</strong><br/><br/>
       <img src="https://shields.io" alt="PHP" />
       <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="JS" />
+      <img src="https://shields.io" alt="JS" /><br/><br/>
       <img src="https://shields.io" alt="MySQL" />
       <img src="https://shields.io" alt="Laravel" />
     </td>
