@@ -2,9 +2,9 @@
 ### Co-Founder & Software Engineer at MR Software | Network Engineering & Automation Specialist
 
 <p align="left">
-  <a href="https://mr-software.online">🌐 Visit MR Software</a> •
-  <a href="https://linkedin.com">💼 Connect on LinkedIn</a> •
-  <a href="mailto:yasir1.ali@torontomu.ca">📩 Email Me</a>
+  🌐 <a href="https://mr-software.online"><strong>Visit MR Software</strong></a> • 
+  💼 <a href="https://linkedin.com"><strong>Connect on LinkedIn</strong></a> • 
+  📩 <a href="mailto:yasir1.ali@torontomu.ca"><strong>Email Me</strong></a>
 </p>
 
 ---
@@ -23,26 +23,26 @@ I am a passionate **Software Engineer** and **Network Automation Specialist** co
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>🌐 Networking & Infrastructure</strong><br/><br/>
-      <img src="https://shields.io" alt="CCNA" /><br/><br/>
-      <img src="https://shields.io" alt="Routing" /><br/><br/>
-      <img src="https://shields.io" alt="Automation" />
+      <strong>🌐 Networking & Infrastructure</strong>
+      <ul>
+        <li>🔹 Cisco CCNA</li>
+        <li>🔹 Routing & Switching</li>
+        <li>🔹 Network Automation</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>💻 Software & Web Development</strong><br/><br/>
-      <img src="https://shields.io" alt="PHP" />&nbsp;
-      <img src="https://shields.io" alt="Python" />&nbsp;
-      <img src="https://shields.io" alt="JS" /><br/><br/>
-      <img src="https://shields.io" alt="MySQL" />&nbsp;
-      <img src="https://shields.io" alt="Laravel" />
+      <strong>💻 Software & Web Development</strong>
+      <ul>
+        <li>🔹 PHP / Laravel</li>
+        <li>🔹 Python</li>
+        <li>🔹 JavaScript</li>
+        <li>🔹 MySQL</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />&nbsp;
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+### 📈 Contribution Status
+*💻 Check out my repositories below to see my live projects, codebase architecture, and latest automation scripts!*
