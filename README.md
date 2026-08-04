@@ -30,10 +30,10 @@ I am a passionate **Software Engineer** and **Network Automation Specialist** co
     </td>
     <td valign="top" width="50%">
       <strong>💻 Software & Web Development</strong><br/><br/>
-      <img src="https://shields.io" alt="PHP" />
-      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="PHP" />&nbsp;
+      <img src="https://shields.io" alt="Python" />&nbsp;
       <img src="https://shields.io" alt="JS" /><br/><br/>
-      <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="MySQL" />&nbsp;
       <img src="https://shields.io" alt="Laravel" />
     </td>
   </tr>
@@ -43,6 +43,6 @@ I am a passionate **Software Engineer** and **Network Automation Specialist** co
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />&nbsp;
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
