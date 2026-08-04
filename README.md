@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://mr-software.online">🌐 Visit MR Software</a> •
-  <a href="https://www.linkedin.com/in/yasiraliit/">💼 Connect on LinkedIn</a> •
+  <a href="https://linkedin.com">💼 Connect on LinkedIn</a> •
   <a href="mailto:yasir1.ali@torontomu.ca">📩 Email Me</a>
 </p>
 
