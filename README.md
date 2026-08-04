@@ -25,18 +25,18 @@ I am a passionate **Software Engineer** and **Network Automation Specialist** co
     <td valign="top" width="50%">
       <strong>🌐 Networking & Infrastructure</strong>
       <ul>
-        <li>🔹 Cisco CCNA</li>
-        <li>🔹 Routing & Switching</li>
-        <li>🔹 Network Automation</li>
+        <li> Cisco CCNA</li>
+        <li> Routing & Switching</li>
+        <li> Network Automation</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <strong>💻 Software & Web Development</strong>
       <ul>
-        <li>🔹 PHP / Laravel</li>
-        <li>🔹 Python</li>
-        <li>🔹 JavaScript</li>
-        <li>🔹 MySQL</li>
+        <li> PHP / Laravel</li>
+        <li> Python</li>
+        <li> JavaScript</li>
+        <li> MySQL</li>
       </ul>
     </td>
   </tr>
